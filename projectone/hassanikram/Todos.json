@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "complete": false,
+      "id": 1,
+      "task": "Workout"
+    },
+    {
+      "complete": false,
+      "id": 2,
+      "task": "Shower"
+    },
+    {
+      "complete": false,
+      "id": 3,
+      "task": "Go for grocery shopping"
+    }
+  ]
+}
